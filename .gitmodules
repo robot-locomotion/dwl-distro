@@ -1,15 +1,15 @@
 [submodule "dwl"]
 	path = dwl
-	url = https://github.com/robot-locomotion/dwl.git
+	url = git@github.com:robot-locomotion/dwl.git
 [submodule "dwl_msgs"]
 	path = dwl_msgs
-	url = https://github.com/robot-locomotion/dwl-msgs.git
+	url = git@github.com/robot-locomotion/dwl-msgs.git
 [submodule "dwl_rviz_plugin"]
 	path = dwl_rviz_plugin
-	url = https://github.com/robot-locomotion/dwl-rviz-plugin
+	url = git@github.com/robot-locomotion/dwl-rviz-plugin
 [submodule "terrain_server"]
 	path = terrain_server
-	url = https://github.com/robot-locomotion/terrain-server.git
+	url = git@github.com/robot-locomotion/terrain-server.git
 [submodule "wb_state_publisher"]
 	path = wb_state_publisher
-	url = https://github.com/robot-locomotion/wb-state-publisher.git
+	url = git@github.com/robot-locomotion/wb-state-publisher.git
